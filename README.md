@@ -16,6 +16,8 @@ An AI-powered Screenshot Analyzer built with **SwiftUI**, **Vision OCR**, and **
 - 📱 SwiftUI-based interface
 - 🔒 Designed around Apple's on-device AI capabilities
 
+https://github.com/user-attachments/assets/3c049d52-b8dc-4904-9deb-8e6138308f7e
+
 ## 🏗️ Architecture
 
 ```text
